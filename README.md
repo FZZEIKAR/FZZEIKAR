@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FZZEIKAR
-- 👀 I’m interested in machine learning and deep learning using python and r shiny
+- 👀 I’m interested in machine learning and deep learning using python and r
 - 🌱 I’m currently learning r shiny I shared  some applications of that on my account
 
 
